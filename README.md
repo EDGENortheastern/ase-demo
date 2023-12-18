@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Trying aaaa
+[![codecov](https://codecov.io/gh/EDGENortheastern/ase-demo/graph/badge.svg?token=hedoxBUIoq)](https://codecov.io/gh/EDGENortheastern/ase-demo)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
